@@ -1,6 +1,8 @@
 # Bankruptcy Prediction
-## Project for Statistics for Data Science @ University of Pisa
+## Project for Statistics for Data Science  
+### University of Pisa
 
+![download](https://user-images.githubusercontent.com/56237736/192123577-8c4de27f-ca2c-4ca7-8391-3142e09be1c2.png)
 
 ### Description
 
