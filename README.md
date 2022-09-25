@@ -14,7 +14,7 @@ For more detailed information see the [report](https://github.com/cordeiroandres
 
 AIDA database of (many) Italian companies
 - with historical data (last 10 years from closing)
-- https://www.sba.unipi.it/it/risorse/banche dati/aida
+- https://www.sba.unipi.it/it/risorse/banche-dati/aida
 
 Ateco 2007 classification of industry sectors
 - An Italian version of the European NACE classification
