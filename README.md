@@ -9,7 +9,7 @@
 For this project the motivation was the investigation of the risk factors of business failure of a set of Companies from a given dataset. The investigation was segmented into 5 questions that were proposed by the project. The first part of the project was based on the distribution of ceirtan aspects of the dataset. 
 The second part of the project focus more on using parametric models for failure scoring and comparing the scoring with a given technique.
 
-For more detailed information of the requirements of the project [project](https://github.com/cordeiroandres/Predicting-Bankruptcy-Case/blob/main/sds.project.2022.pdf)
+For more detailed information of the requirements of the [project](https://github.com/cordeiroandres/Predicting-Bankruptcy-Case/blob/main/sds.project.2022.pdf)
 To see the final result of our project [report](https://github.com/cordeiroandres/Predicting-Bankruptcy-Case/blob/main/report.pdf)
 
 AIDA database of (many) Italian companies
