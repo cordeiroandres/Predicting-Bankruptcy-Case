@@ -13,7 +13,7 @@ What is the probability of failures conditional to age of
 firms at year 2017?
 ' 
 
-#To answet this question we calculate the probabily of failure
+#To answer this question we calculate the probabily of failure
 #P( Status=Failed | Age/Size = x ) = P(Status=Failed,Age/Size=x) / P(Age/Size=x)
 
 df_ABC %>% 
@@ -53,7 +53,7 @@ Age_Stats <-Finantial_State_Age %>%
 tit = paste("Year = ",Year)
 # Plot the distribution of companies in bankruptcy in the specific year 2017
 barplot(Age_Stats$Prob_Failed, main = tit, xlab = 'Age', ylab = 'P(Bankruptcy | Age=x)')
-#PLot the companies that have an age less than 50
+#Plot the companies that have an age less than 50
 Age_Stats %>% 
   filter(Prob_Failed < 0.7) %>% 
   ggplot(aes(x=Company_age, 
